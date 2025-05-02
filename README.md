@@ -29,6 +29,9 @@
 - Crafting visual designs and user experiences in [Figma](https://www.figma.com/).
 - Checkout my design on [Behance](https://www.behance.net/almorioadolfo01).
 </details>
+
+</details>
+
 <details> 
 <summary>Techy Tools</summary>
 
@@ -38,4 +41,4 @@
 **Tools:** `git`, `VSCode`, `Notion`, `EdrawMind`
 
 </details>
-</details>
+
