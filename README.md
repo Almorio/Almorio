@@ -29,3 +29,12 @@
 - Crafting visual designs and user experiences in [Figma](https://www.figma.com/).
 - Checkout my design on [Behance](https://www.behance.net/almorioadolfo01).
 </details>
+<details> 
+<summary>Techy Tools</summary>
+
+**Frontend:** `HTML`, `CSS`, `JavaScript`,
+**Backend** `Node.js`.
+**Design:** `Adobe`, `Figma`, `Canva`
+**Tools:** `git`, `VSCode`, `Notion`, `EdrawMind`
+
+</details>
