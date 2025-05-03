@@ -35,10 +35,10 @@
 <details> 
 <summary>Techy Tools</summary>
 
-**Frontend:** `HTML`, `CSS`, `JavaScript`,
-**Backend** `Node.js`.
-**Design:** `Adobe`, `Figma`, `Canva`
-**Tools:** `git`, `VSCode`, `Notion`, `EdrawMind`
+**Frontend:** `HTML`, `CSS`, `JavaScript`,<br>
+**Backend** `Node.js`.<br>
+**Design:** `Adobe`, `Figma`, `Canva`<br>
+**Tools:** `git`, `VSCode`, `Notion`, `EdrawMind`<br>
 
 </details>
 
