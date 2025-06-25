@@ -23,12 +23,6 @@ Passionate about turning ideas into responsive, accessible, and scalable solutio
 - **Tools:** Git, GitHub, VSCode, Notion, EdrawMind
 - **Build & Deploy:** Vite, React Router, Netlify, Render
 
-### 🎨 Find me online:
-- 🔗 [Portfolio](https://seuportifolio.com)
-- 🎨 [Behance](https://www.behance.net/seulink)
-- 💼 [LinkedIn](https://linkedin.com/in/seulink)
-- 📫 Let's connect and build something great!
-
 > "Code the future. Design the experience."
 
 
