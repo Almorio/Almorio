@@ -8,37 +8,28 @@
 
 ## About Me
 
-- I'm currently studying to be a junior Full Stack Ddeveloper
-- Always exploring the latest trends in web development.
-- i Design & Build Beautiful Websites.
-- Let's connect! Whether you have a project in mind or just want to chat about design, feel free to get in touch.
+## 👋 Hello, I'm Almório Adolfo
 
-<details>
+I'm a Junior Full Stack Developer and UI/UX Designer from Mozambique 🇲🇿  
+I create full web applications with clean code and intuitive design.  
+Passionate about turning ideas into responsive, accessible, and scalable solutions.
 
-<summary>What i do</summary>
+### 🚀 Tech Stack
 
-<details>
-<summary>Content Creation</summary>
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, ShadCN
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase
+- **UI/UX Design:** Figma, Adobe XD, Canva
+- **Tools:** Git, GitHub, VSCode, Notion, EdrawMind
+- **Build & Deploy:** Vite, React Router, Netlify, Render
 
-- Content creation about design tips for daily posts [tasbizz.Graphic](https://web.facebook.com/profile.php?id=61556161880230).
-</details>
+### 🎨 Find me online:
+- 🔗 [Portfolio](https://seuportifolio.com)
+- 🎨 [Behance](https://www.behance.net/seulink)
+- 💼 [LinkedIn](https://linkedin.com/in/seulink)
+- 📫 Let's connect and build something great!
 
-<details> 
-  <summary>Design</summary>
+> "Code the future. Design the experience."
 
-- Crafting visual designs and user experiences in [Figma](https://www.figma.com/).
-- Checkout my design on [Behance](https://www.behance.net/almorioadolfo01).
-</details>
 
-</details>
-
-<details> 
-<summary>Techy Tools</summary>
-
-**Frontend:** `HTML`, `CSS`, `JavaScript`,<br>
-**Backend** `Node.js`.<br>
-**Design:** `Adobe`, `Figma`, `Canva`<br>
-**Tools:** `git`, `VSCode`, `Notion`, `EdrawMind`<br>
-
-</details>
 
